@@ -21,8 +21,8 @@ worth selling on [warframe.market](https://warframe.market), and which relics to
 - Interface em **português, inglês e espanhol**.
 
 ### Instalar
-Baixe o instalador `Relic-Advisor-Setup-x.y.z.exe` na página de
-[Releases](https://github.com/XKrust/projeto-warframe/releases) e execute.
+Baixe o instalador **[Relic-Advisor-Setup-1.0.0.exe](https://github.com/XKrust/projeto-warframe/raw/main/Relic-Advisor-Setup-1.0.0.exe)**, que está na pasta principal deste
+repositório, e execute.
 O Windows pode mostrar um aviso do SmartScreen porque o app não é assinado — clique em
 “Mais informações” → “Executar assim mesmo”.
 
@@ -50,8 +50,8 @@ Precisa de internet (preços do warframe.market e o leitor de texto, baixado na 
 - UI in **Portuguese, English and Spanish**.
 
 ### Install
-Download `Relic-Advisor-Setup-x.y.z.exe` from [Releases](https://github.com/XKrust/projeto-warframe/releases)
-and run it. Windows SmartScreen may warn because the app is unsigned — click “More info” → “Run anyway”.
+Download the installer **[Relic-Advisor-Setup-1.0.0.exe](https://github.com/XKrust/projeto-warframe/raw/main/Relic-Advisor-Setup-1.0.0.exe)** from the root of this repository and
+run it. Windows SmartScreen may warn because the app is unsigned — click “More info” → “Run anyway”.
 
 Requires an internet connection (warframe.market prices, and the OCR engine downloaded on first use).
 
@@ -78,8 +78,8 @@ Requires an internet connection (warframe.market prices, and the OCR engine down
 - Interfaz en **portugués, inglés y español**.
 
 ### Instalar
-Descarga `Relic-Advisor-Setup-x.y.z.exe` desde [Releases](https://github.com/XKrust/projeto-warframe/releases)
-y ejecútalo. Windows SmartScreen puede avisar porque la app no está firmada — haz clic en
+Descarga el instalador **[Relic-Advisor-Setup-1.0.0.exe](https://github.com/XKrust/projeto-warframe/raw/main/Relic-Advisor-Setup-1.0.0.exe)**, que está en la carpeta principal de
+este repositorio, y ejecútalo. Windows SmartScreen puede avisar porque la app no está firmada — haz clic en
 “Más información” → “Ejecutar de todas formas”.
 
 Necesita internet (precios de warframe.market y el motor de OCR, que se descarga la primera vez).

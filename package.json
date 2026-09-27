@@ -65,7 +65,13 @@
       "shortcutName": "Relic Advisor",
       "license": "LICENSE",
       "artifactName": "Relic-Advisor-Setup-${version}.exe"
-    }
+    },
+    "compression": "maximum",
+    "electronLanguages": [
+      "pt-BR",
+      "en-US",
+      "es"
+    ]
   },
   "devDependencies": {
     "@napi-rs/canvas": "^1.0.9",
