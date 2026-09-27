@@ -1,0 +1,19 @@
+# dependências e builds
+node_modules/
+dist/
+dist-electron/
+release/
+
+# dados locais (inventário pessoal e cache de preços)
+cache/
+data/
+
+# sistema / editor
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# configuração local de ferramentas
+.claude/
